@@ -1,0 +1,17 @@
+{{#reporte}}
+<div class="resultItem">
+	<h2 class="title">{{title}}</h2>
+	<h3 class="desc">{{desc}}</h3>
+	<p class="clienteid">{{clienteid}}</p>
+	<p class="nombre">{{nombre}}</p>
+	<p class="apellido">{{apellido}}</p>
+	<ul class="repor">
+	{{#repor}}
+		<li><a>{{serial}}</a></li>
+        <li><p>{{modelo}}</p></li>
+          <li><p>{{mar}}</p></li>
+      
+	{{/repor}}
+	</ul>
+</div>
+{{/reporte}}

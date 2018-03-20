@@ -1,0 +1,57 @@
+{
+  "reporte":[
+    {
+    "id":1,
+    "title": "Reporte de cliente",
+    "desc": "DATOS",
+    "clienteid":1,
+    "nombre":"Juan Carlos",
+    "apellido":"Peña Galvan",
+    
+    "repor": [
+                {
+                    "serial": "#928372846",
+                    "modelo":"2018",
+                    "mar":["L-G","SANSUMG","SONY"]
+                }
+            ]
+
+    },
+    
+     {
+    "id":2,
+    "title": "Reporte de cliente",
+    "desc": "DATOS",
+    "clienteid":2,
+    "nombre":"Carlos andres",
+    "apellido":"Diaz",
+    
+    "repor": [
+                {
+                    "serial": "#23523846",
+                    "modelo":"2015",
+                    "mar":["HP","SONY"]
+                }
+            ]
+
+    },
+    
+     {
+    "id":3,
+    "title": "Reporte de cliente",
+    "desc": "DATOS",
+    "clienteid":3,
+    "nombre":"Juan Jose",
+    "apellido":"Berna",
+    
+    "repor": [
+                {
+                    "serial": "#8374372846",
+                    "modelo":"2017",
+                    "mar":["L-G","HUAWEY","SONY"]
+                }
+            ]
+
+    }
+  ]
+}
