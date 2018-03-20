@@ -1,0 +1,11 @@
+{
+"ID":1,
+"IDcliente":1,
+"NOMBRE":"JUAN",
+"APELLIDO":"BERNA",
+"EQUIPO":{
+    "Serial":"#143423",
+    "Modelo":"2018",
+    "marca":["L-G","SANSUMG","SONY"]
+    }
+}
